@@ -1,0 +1,9 @@
+{
+  "schema": 1,
+  "files": {
+    "shared": "shared.json",
+    "a": "blocks/a.json",
+    "b": "blocks/b.json",
+    "c": "blocks/c.json"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "features": {
+    "prices": true,
+    "kits": true,
+    "vaults": true
+  },
+  "links": {
+    "website": "https://freakyville.dk",
+    "report": "https://freakyville.dk/app/anmeldelse/opret",
+    "shop": "https://shop.freakyville.dk/",
+    "discord": "https://discord.com/invite/freakyville"
+  },
+  "vagtLore": [
+    "Købt af:",
+    "Købt af vagten"
+  ],
+  "ignore": [
+    "Celler"
+  ],
+  "notOwners": [
+    "ukendt",
+    "ejer",
+    "ejere",
+    "ligger",
+    "freaks",
+    "vault",
+    "eksistere",
+    "ikke"
+  ],
+  "vagt": {
+    "arrow": "Vagt Pil",
+    "bow": "Vagt Bow",
+    "chainmail_helmet": "Officer/Inspektør Helmet",
+    "diamond_helmet": "Direktør Helmet",
+    "golden_helmet": "Vagt Helmet",
+    "saddle": "Vagt Handsker",
+    "stick": "Vagt Stick",
+    "*_boots": "Vagt Boots",
+    "*_chestplate": "Vagt Chestplate",
+    "*_leggings": "Vagt Leggings",
+    "*_sword": "Vagt Sword"
+  },
+  "items": {
+    "acacia_door": "Acacia Door",
+    "andesite": "Andesite",
+    "azure_bluet": "Azure Bluet",
+    "birch_door": "Birch Door",
+    "bookshelf": "Bookshelf",
+    "dandelion": "Dandelion",
+    "dark_oak_door": "Dark Oak Door",
+    "diorite": "Diorite",
+    "gold_nugget": "Vagt Coin",
+    "granite": "Granite",
+    "jungle_door": "Jungle Door",
+    "lilac": "Lilac",
+    "magenta_banner": "Magenta Banner",
+    "magenta_dye": "Magenta Dye",
+    "magenta_stained_glass": "Magenta Glass",
+    "magenta_wool": "Magenta Wool",
+    "orange_banner": "Orange Banner",
+    "orange_dye": "Orange Dye",
+    "orange_stained_glass": "Orange Glass",
+    "orange_tulip": "Orange Tulip",
+    "orange_wool": "Orange Wool",
+    "oxeye_daisy": "Oxeye Daisy",
+    "painting": "Painting",
+    "pink_banner": "Pink Banner",
+    "pink_tulip": "Pink Tulip",
+    "pink_wool": "Pink Wool",
+    "polished_andesite": "Polished Andesite",
+    "polished_diorite": "Polished Diorite",
+    "polished_granite": "Polished Granite",
+    "poppy": "Poppy",
+    "purple_banner": "Purple Banner",
+    "purple_dye": "Purple Dye",
+    "purple_stained_glass": "Purple Glass",
+    "purple_wool": "Purple Wool",
+    "red_banner": "Red Banner",
+    "red_bed": "Bed",
+    "red_dye": "Red Dye",
+    "red_stained_glass": "Rød Glass",
+    "red_tulip": "Red Tulip",
+    "red_wool": "Red Wool",
+    "spruce_door": "Spruce Door",
+    "spruce_fence_gate": "Spruce Fence Gate",
+    "stone_brick_stairs": "Stone Brick Stairs",
+    "string": "String",
+    "white_carpet": "White Carpet",
+    "white_tulip": "White Tulip",
+    "white_wool": "White Wool",
+    "*_banner": "Banner"
+  }
+}

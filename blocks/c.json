@@ -1,0 +1,25 @@
+{
+  "vagt": {
+    "arrow": "Pil",
+    "*_boots": "Vagt Sko",
+    "*_leggings": "Vagt Busker"
+  },
+  "items": {
+    "brewing_stand": "Brewing Stand",
+    "diamond_block": "Diamond Block",
+    "tnt": "TNT"
+  },
+  "gear": {
+    "golden_helmet protection:2": "P2 Helmet",
+    "iron_chestplate protection:2": "P2 Chestplate",
+    "iron_leggings protection:2": "P2 leggings",
+    "iron_boots protection:2": "P2 Sko",
+    "iron_sword sharpness:2": "Sharp 2 Sværd"
+  },
+  "names": {
+    "Legend Helmet": "Leg Helmet",
+    "Legend Chestplate": "Leg Chestplate",
+    "Legend Leggings": "Leg Busker",
+    "Legend Boots": "Leg Sko"
+  }
+}

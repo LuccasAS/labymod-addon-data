@@ -1,0 +1,140 @@
+{
+  "ignore": [
+    "Rare Items > Bandepenge",
+    "Rare Items > Fake VK"
+  ],
+  "items": {
+    "acacia_fence_gate": "Acacia Fence Gate",
+    "acacia_stairs": "Acacia Stair",
+    "allium": "Allium",
+    "birch_fence_gate": "Birch Fence Gate",
+    "birch_stairs": "Birch Stair",
+    "blue_orchid": "Blue Orchid",
+    "brick_stairs": "Brick Stairs",
+    "bricks": "Brick Block",
+    "chiseled_quartz_block": "Chiseled Quartz Block",
+    "cobweb": "Cobweb",
+    "dark_oak_fence_gate": "Dark Oak Fence Gate",
+    "dark_oak_stairs": "Dark Oak Stair",
+    "dead_bush": "Deadbush",
+    "diamond_ore": "Diamond Ore",
+    "flower_pot": "Flower Pot",
+    "gold_ingot": "Guldbar (Fra A+ VV)",
+    "jungle_fence_gate": "Jungle Fence Gate",
+    "jungle_stairs": "Jungle Stair",
+    "magenta_carpet": "Magenta Carpet",
+    "magenta_stained_glass_pane": "Magenta Glass Pane",
+    "orange_carpet": "Orange Carpet",
+    "orange_stained_glass_pane": "Orange Glass Pane",
+    "peony": "Peony",
+    "pink_carpet": "Pink Carpet",
+    "pink_dye": "Pink Dye",
+    "pink_stained_glass": "Pink Glass",
+    "pink_stained_glass_pane": "Pink Glass Pane",
+    "purple_carpet": "Purple Carpet",
+    "purple_stained_glass_pane": "Purple Glass Pane",
+    "quartz_block": "Quartz Block",
+    "quartz_pillar": "Quartz Pillar",
+    "quartz_stairs": "Quartz Stairs",
+    "red_carpet": "Red Carpet",
+    "red_stained_glass_pane": "Red Glass Pane",
+    "rose_bush": "Rose Bush",
+    "spruce_stairs": "Spruce Wood Stairs",
+    "sunflower": "Sunflower",
+    "terracotta": "Alle Stained Clay",
+    "vine": "Vines",
+    "*_terracotta": "Alle Stained Clay"
+  },
+  "gear": {
+    "diamond_helmet protection:4 unbreaking:2": "P4+Unb2 - Dia Helmet",
+    "diamond_chestplate protection:4 unbreaking:2": "P4+Unb2 - Dia Chestplate",
+    "diamond_leggings protection:4 unbreaking:2": "P4+Unb2 - Dia Leggings",
+    "diamond_boots protection:4 unbreaking:2": "P4+Unb2 - Dia Boots",
+    "diamond_sword sharpness:5 unbreaking:2": "S5+Unb2 - Dia Sword",
+    "diamond_helmet protection:4": "P4 - Diamond Helmet",
+    "diamond_chestplate protection:4": "P4 - Diamond Chestplate",
+    "diamond_leggings protection:4": "P4 - Diamond Leggings",
+    "diamond_boots protection:4": "P4 - Diamond Boots",
+    "diamond_sword sharpness:5": "S5 - Diamond Sword",
+    "bow punch:2 infinity:1 unbreaking:2-3": "Punch2+Inf+Unb2/3 Bow",
+    "bow punch:2 infinity:1": "Punch2+Inf Bow",
+    "bow power:4 unbreaking:1-3 punch:2 infinity:1 flame:1": "Heavy Shotgun Bow",
+    "iron_pickaxe silk_touch:1 ...": "Silktouch Pickaxe",
+    "diamond_pickaxe silk_touch:1 ...": "Silktouch Pickaxe",
+    "iron_pickaxe fortune:1-3 ...": "Fortune Pickaxe",
+    "diamond_pickaxe fortune:1-3 ...": "Fortune Pickaxe"
+  },
+  "names": {
+    "Legend Boots": "Legends Boots",
+    "-> Mythic Key <- (#*)": "Mythic Key"
+  },
+  "references": {
+    "A+ VV": "A+ VV Heads",
+    "BO-Heads": "A BO Heads",
+    "Bande-område": "A BO Heads"
+  },
+  "kitReceived": "Received kit {kit}-a.",
+  "kits": {
+    "madchemist": {
+      "name": "Madchemist",
+      "resetsAt": "00:00"
+    },
+    "legend": {
+      "name": "Legend",
+      "resetsAt": "00:00"
+    },
+    "titan": {
+      "name": "Titan",
+      "resetsAt": "00:00"
+    },
+    "op": {
+      "name": "OP",
+      "cooldown": "2d"
+    },
+    "konge": {
+      "name": "Konge",
+      "cooldown": "2d"
+    },
+    "bf2026": {
+      "name": "BF2026",
+      "cooldown": "2d"
+    },
+    "bf2025": {
+      "name": "BF2025",
+      "cooldown": "2d"
+    },
+    "bf2024": {
+      "name": "BF2024",
+      "cooldown": "2d"
+    },
+    "bf2023": {
+      "name": "BF2023",
+      "cooldown": "2d"
+    },
+    "bf2022": {
+      "name": "BF2022",
+      "cooldown": "2d"
+    },
+    "bf2021": {
+      "name": "BF2021",
+      "cooldown": "2d"
+    },
+    "bf": {
+      "name": "BF",
+      "cooldown": "2d"
+    }
+  },
+  "vaults": {
+    "frederik": {
+      "name": "Vagt Vault A",
+      "robbing": "VAGT-ALARM: {player} forsøger at røve vagternes værdi-boks i A!",
+      "robbed": "VAGT-ALARM: {player} gennemførte et røveri i vagternes værdi-boks i A!",
+      "cancelled": "Du afbrød røveriet! - Og fik derfor ikke noget udbytte!",
+      "wait": "Røveri: Du kan først røve vagten igen om {time}",
+      "robbingTime": "8s",
+      "personalCooldown": "12h",
+      "globalCooldown": "30m",
+      "failedCooldown": "5m"
+    }
+  }
+}

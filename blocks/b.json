@@ -1,0 +1,51 @@
+{
+  "ignore": [
+    "Rare Items > Fake VK"
+  ],
+  "items": {
+    "black_carpet": "Black Carpet",
+    "black_terracotta": "Black Stained Clay",
+    "black_wool": "Black Wool",
+    "blue_stained_glass_pane": "Blue Stained Glass Pane",
+    "blue_terracotta": "Blue Stained Clay",
+    "bone_meal": "Bone Meal",
+    "brown_carpet": "Brown Carpet",
+    "coal_ore": "Coal Ore",
+    "cyan_dye": "Cyan Dye",
+    "cyan_stained_glass_pane": "Cyan Stained Glass Pane",
+    "cyan_terracotta": "Cyan Stained Clay",
+    "fishing_rod": "Fishing Rod",
+    "glass": "Glass",
+    "glass_pane": "Glass Pane",
+    "gray_carpet": "Gray Carpet",
+    "green_stained_glass_pane": "Green Stained Glass Pane",
+    "green_terracotta": "Green Stained Clay",
+    "lapis_ore": "Lapis Lazuli Ore",
+    "light_gray_carpet": "Light Gray Carpet",
+    "lime_banner": "Lime Banner",
+    "lime_terracotta": "Lime Stained Clay",
+    "magenta_stained_glass_pane": "Magenta Stained Glass Pane",
+    "magenta_terracotta": "Magenta Stained Clay",
+    "orange_stained_glass_pane": "Orange Stained Glass Pane",
+    "orange_terracotta": "Orange Stained Clay",
+    "pink_stained_glass": "Pink Glas",
+    "pink_stained_glass_pane": "Pink Stained Glass Pane",
+    "pink_terracotta": "Pink Stained Clay",
+    "purple_stained_glass_pane": "Purple Stained Glass Pane",
+    "purple_terracotta": "Purple Stained Clay",
+    "rail": "Rail",
+    "red_stained_glass_pane": "Red Stained Glass Pane",
+    "red_terracotta": "Red Stained Clay",
+    "sand": "Sand",
+    "stone_brick_stairs": "Stonebrick Stair",
+    "white_stained_glass": "Hvidt Glas",
+    "white_stained_glass_pane": "White Stianed Glass Pane",
+    "yellow_banner": "Yellow Banner",
+    "yellow_terracotta": "Yellow Stained Clay"
+  },
+  "gear": {
+    "stone_pickaxe silk_touch:1": "Silk Touch Pickaxe",
+    "fishing_rod unbreaking:1-3": "Unbreaking Fishing Rod",
+    "fishing_rod lure:1-3": "Lure Fishing Rod"
+  }
+}
