@@ -68,11 +68,6 @@
     "Legend Boots": "Legends Boots",
     "-> Mythic Key <- (#*)": "Mythic Key"
   },
-  "references": {
-    "A+ VV": "A+ VV Heads",
-    "BO-Heads": "A BO Heads",
-    "Bande-område": "A BO Heads"
-  },
   "kitReceived": "Received kit {kit}-a.",
   "kits": {
     "madchemist": {
